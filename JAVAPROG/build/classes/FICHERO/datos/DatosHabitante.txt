@@ -1,0 +1,12 @@
+DNI: 12345G
+nombre: ENYA
+apellido: GARCIA
+edad: 23
+sexo: F
+
+DNI: 3456
+nombre: juanjo
+apellido: dols
+edad: 22
+sexo: m
+
